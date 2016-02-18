@@ -36,3 +36,7 @@ curl --no-buffer -s http://developer.usa.gov/1usagov | jq --unbuffered '.u,.ll' 
 8. What if we want a series of arrays? 
 
 curl --no-buffer -s http://developer.usa.gov/1usagov | jq --unbuffered --compact-output '[.u,.ll[]]' >>multiple4.txt
+
+Go to Mike's GitHub page!
+
+https://github.com/mikedewar/RealTimeStorytelling/tree/master/1
