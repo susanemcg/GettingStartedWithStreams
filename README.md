@@ -1,5 +1,9 @@
 # GettingStartedWithStreams
 
+Install jq!
+
+https://stedolan.github.io/jq/download/
+
 1. Show a stream with curl:
 curl -s http://developer.usa.gov/1usagov
 
